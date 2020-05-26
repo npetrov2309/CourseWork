@@ -1,0 +1,6 @@
+NewServlet1.class
+NewServlet.class
+UserServlet.class
+com\mycompany\karate\JAXRSConfiguration.class
+com\mycompany\karate\resources\JavaEE8Resource.class
+DataServlet.class
